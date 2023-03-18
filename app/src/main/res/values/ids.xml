@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="search" type="id" />
+    <item name="search" type="id" />
+    <item name="refresh" type="id" />
+    <item name="copy" type="id" />
+</resources>
