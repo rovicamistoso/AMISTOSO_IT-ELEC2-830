@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/bottomnav2" />
             <option value="$PROJECT_DIR$/app/database" />
+            <option value="$PROJECT_DIR$/app/database/libs" />
           </set>
         </option>
       </GradleProjectSettings>

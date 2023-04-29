@@ -16,3 +16,4 @@ rootProject.name = "My Application"
 include ':app'
 include ':app:database'
 include ':app:bottomnav2'
+include ':app:database:libs'
